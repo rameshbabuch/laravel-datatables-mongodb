@@ -1,5 +1,5 @@
 {
-    "name": "pimlie/laravel-datatables-mongodb",
+    "name": "rameshpaul/laravel-datatables-mongodb",
     "description": "Extension for yajra/datatables to support mongodb backend",
     "keywords": [
         "laravel",
@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "pimlie",
-            "email": "pimlie@hotmail.com"
+            "name": "rameshpaul",
+            "email": "chrb.rmeshbabu@gmail.com"
         }
     ],
     "require": {
